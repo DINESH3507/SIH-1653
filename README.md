@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
 # Date:07.03.2025
-## Register Number:212224220117
-## Name:Thirunavukkarasu meenakshisundaram
+## Register Number:212224040076
+## Name:DINESH V
 ## Problem Title
 SIH 1653: Web based Selector-Applicant Simulation Software
 ## Problem Description
@@ -45,15 +45,6 @@ Description:
 The system generates relevant questions based on the candidate's expertise.
 It dynamically suggests follow-up questions for in-depth assessment.
 Benefit: Ensures targeted and fair questioning, reducing human bias.
-
-3.Actors: Selector, Applicant, AI Module
-Description:
-
-The system generates relevant questions based on the candidate's expertise.
-It dynamically suggests follow-up questions for in-depth assessment.
-Benefit: Ensures targeted and fair questioning, reducing human bias.
-
-
 
 
 ## Technology Stack
